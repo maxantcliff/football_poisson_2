@@ -227,6 +227,10 @@ for betting_year in range(2+back_years,19):
         bets_return(wager, starting_bankroll,bankroll, correct, incorrect)
 ```
 
+# Conclusion
 
+Again, the ROI is pretty jumpy and has a tiny sample size, but I think this is an improvement on my last attempt from a coding perspective! 
+
+Next, I want to build a full Dixon-Coles model and hopefully start building in other factors. 
 
 
